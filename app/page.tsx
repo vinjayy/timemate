@@ -42,7 +42,7 @@ export default function HomePage() {
           <div className="text-center">
             <h3 className="font-semibold text-gray-800">Pengembangan Teknologi dan Inovasi Konseling</h3>
             <p className="text-sm text-gray-600">
-              Program Studi Bimbingan dan Konseling UIN Sultan Maulana Hasanuddin Banten
+              Program Studi Bimbingan dan Konseling Pendidikan Islam UIN Sultan Maulana Hasanuddin Banten
             </p>
           </div>
 
